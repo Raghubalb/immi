@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/immi/static/css/main.162ed818.css",
+    "main.js": "/immi/static/js/main.519d9837.js",
+    "static/js/453.c8362ad1.chunk.js": "/immi/static/js/453.c8362ad1.chunk.js",
+    "static/media/hero.png": "/immi/static/media/hero.5c67356e5f1ab528d990.png",
+    "static/media/program-1.png": "/immi/static/media/program-1.d7936f3e98924da1b07b.png",
+    "static/media/program-2.png": "/immi/static/media/program-2.2e7138ed0dec4fe8f5e3.png",
+    "static/media/program-4.jpg": "/immi/static/media/program-4.2e32ccf8e8fc4c5eeef0.jpg",
+    "static/media/LOGO IMMI.png": "/immi/static/media/LOGO IMMI.ab6b4657d74f3634ce60.png",
+    "static/media/program-3.jpg": "/immi/static/media/program-3.66007befa358bc731791.jpg",
+    "index.html": "/immi/index.html",
+    "main.162ed818.css.map": "/immi/static/css/main.162ed818.css.map",
+    "main.519d9837.js.map": "/immi/static/js/main.519d9837.js.map",
+    "453.c8362ad1.chunk.js.map": "/immi/static/js/453.c8362ad1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.162ed818.css",
+    "static/js/main.519d9837.js"
+  ]
+}
